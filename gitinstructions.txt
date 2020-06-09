@@ -1,0 +1,29 @@
+$ git config --global user.name "your name"
+$ git config --global user.email "your mail iid"
+$ pwd => shows the current path in which the github folder from the lnk will be downloaded.
+$ ls  => displays all files in the folder
+$ cd <folder name>  => to navigate inside a new folder
+$ cd ..  => to come out of the folder
+$ mkdir <folder name> => to create a 
+
+$ git clone https://github.com/whitehatjr/angrybirdsstage2.5studentactivity
+$ cd angrybirdsstage2.5studentactivity/
+
+ made some changes in readme.md file in the folder
+
+$ git add README.md
+$ git status
+$git commit -m "changed readme by <name>"
+
+create a new repository at github
+$git remote add test <github repository name that u have created>
+
+$ git push -u test 
+give github username and password
+$git log => to check the changes
+
+
+
+
+
+ 
