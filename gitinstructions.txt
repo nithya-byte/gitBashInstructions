@@ -9,7 +9,7 @@ $ mkdir <folder name> => to create a
 $ git clone https://github.com/whitehatjr/angrybirdsstage2.5studentactivity
 $ cd angrybirdsstage2.5studentactivity/
 
- made some changes in readme.md file in the folder
+ make some changes in readme.md file in the folder
 
 $ git add README.md
 $ git status
