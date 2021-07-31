@@ -12,6 +12,10 @@ $ cd angrybirdsstage2.5studentactivity/
  make some changes in readme.md file in the folder
 
 $ git add README.md
+
+add all the files available inside the root directory (Change by Anadya Nair)
+$ git add .
+
 $ git status
 $git commit -m "changed readme by <name>"
 
