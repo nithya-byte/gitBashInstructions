@@ -6,8 +6,8 @@ $ cd <folder name>  => to navigate inside a new folder
 $ cd ..  => to come out of the folder
 $ mkdir <folder name> => to create a 
 
-$ git clone https://github.com/whitehatjr/angrybirdsstage2.5studentactivity
-$ cd angrybirdsstage2.5studentactivity/
+$ git clone https://github.com/AnadyaNair/repository
+$ cd folder_name
 
  make some changes in readme.md file in the folder
 
