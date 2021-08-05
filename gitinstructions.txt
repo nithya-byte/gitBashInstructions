@@ -26,7 +26,7 @@ $ git push -u test
 give github username and password
 $git log => to check the changes
 
-
+ 
 
 
 
