@@ -6,12 +6,16 @@ $ cd <folder name>  => to navigate inside a new folder
 $ cd ..  => to come out of the folder
 $ mkdir <folder name> => to create a 
 
-$ git clone https://github.com/whitehatjr/angrybirdsstage2.5studentactivity
-$ cd angrybirdsstage2.5studentactivity/
+$ git clone https://github.com/AnadyaNair/repository
+$ cd folder_name
 
  make some changes in readme.md file in the folder
 
 $ git add README.md
+
+add all the files available inside the root directory (Change by Anadya Nair)
+$ git add .
+
 $ git status
 $git commit -m "changed readme by <name>"
 
@@ -22,7 +26,7 @@ $ git push -u test
 give github username and password
 $git log => to check the changes
 
-
+ 
 
 
 
